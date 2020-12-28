@@ -5,7 +5,7 @@
  by the way, Shalev's great! God how amazing him in bed, like wow! phhhh blow minder.
  
  
- if ( (Shahar || Harel) missed that Readme file && the lecture won't) {
+ if ( (Shahar || Harel) missed that README.md file && the lecture won't) {
     
     return 192; // The Script for grade zero
    
