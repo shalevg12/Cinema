@@ -1,4 +1,4 @@
-<img width="2100" alt="logo" src="https://github.com/shalevg12/Cinema/assets/58697095/8bb8a9c9-ac4f-4ec6-b8fd-7ebc0b8eb25e">
+<img width="2100" alt="logo" src="https://github.com/shalevg12/Cinema/assets/58697095/47ad627e-f5cf-4046-b74a-8333248be461">
 
 # Cinema Project
 
@@ -7,7 +7,7 @@ The website utilizes Expo and Node.js technologies, with Firebase serving as the
 Payments are handled through the Stripe library, while Redux manages cart, orders, products, and user data.
 The project includes a search feature to find movies easily.
 
-![bg](https://github.com/shalevg12/Cinema/assets/58697095/c0e5c016-aa96-4da8-9dc4-0d54b0432903)
+![bg](https://github.com/shalevg12/Cinema/assets/58697095/39a49e48-68de-42e8-b113-321a9031e428)
 
 
 ## Components
