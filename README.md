@@ -1,9 +1,14 @@
+<img width="2100" alt="logo" src="https://github.com/shalevg12/Cinema/assets/58697095/8bb8a9c9-ac4f-4ec6-b8fd-7ebc0b8eb25e">
+
 # Cinema Project
 
 Welcome to the **Cinema** Project repository! This project is a React-based website designed to simplify the process of booking movie tickets for the cinema.
 The website utilizes Expo and Node.js technologies, with Firebase serving as the database.
 Payments are handled through the Stripe library, while Redux manages cart, orders, products, and user data.
 The project includes a search feature to find movies easily.
+
+![bg](https://github.com/shalevg12/Cinema/assets/58697095/c0e5c016-aa96-4da8-9dc4-0d54b0432903)
+
 
 ## Components
 
@@ -20,6 +25,19 @@ The project includes a range of components such as:
 - SignUp
 - UserProfile
 - and more...
+
+## Features
+
+- **Easy Movie Booking**: Effortlessly browse and book movie tickets through an intuitive user interface.
+- **Secure Payments**: Utilize the Stripe library for secure and seamless payment processing.
+- **User Profiles**: Users can maintain their profiles and track their booking history.
+- **Responsive Design**: Enjoy a consistent experience across devices with responsive design.
+- **Search Functionality**: Easily search for movies using the built-in search feature.
+- **Admin Toolbar**: Admins can manage and update movie listings efficiently.
+- **Order Tracking**: Keep track of your orders and booking details.
+- **User Authentication**: Secure user authentication using the AuthWrapper component.
+- **Simplified Checkout**: Smooth and hassle-free checkout process for users.
+
 
 ## Getting Started
 
